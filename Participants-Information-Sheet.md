@@ -36,11 +36,12 @@ The results of the research will be analyzed in order to evaluate our approach f
 
 **Where can I get more information?**
 If you have any questions regarding the study or related fields, do not hesitate to contact us:
-Lucie-Aimée Kaffee:  HYPERLINK "mailto:kaffee@soton.ac.uk"kaffee@soton.ac.uk
+Lucie-Aimée Kaffee:  kaffee@soton.ac.uk
 
 **What happens if something goes wrong?**
-In the case of concern or complaint, please feel free to reach out to the Research Integrity and Governance Manager (023 8059 5058,  HYPERLINK "mailto:rgoinfo@soton.ac.uk"rgoinfo@soton.ac.uk). The University has insurance in place to cover its legal liabilities in respect of this study.
+In the case of concern or complaint, please feel free to reach out to the Research Integrity and Governance Manager (023 8059 5058,  rgoinfo@soton.ac.uk). The University has insurance in place to cover its legal liabilities in respect of this study.
 
 Thank you.
+
 We value every participant of our study very much and are happy that you consider contributing to our study. 
 
