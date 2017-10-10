@@ -19,10 +19,10 @@
 
 <span dir="rtl">اذا كان لديكم أي تساؤلات او تعليقات بخصوص الدراسة يمكنكم التواصل معنا عبر هذه البيانات:</span>
 
-<span dir="rtl">لوسي أيمي كافيه*: kaffee@soton.ac.uk</span>
-<span dir="rtl">هادي السحار**: hady.elsahar@univ-st-etienne.fr</span>
-<span dir="rtl">بافلوس فويوكليس* :pv1e13@ecs.soton.ac.uk</span>
+<p dir="rtl">لوسي أيمي كافيه*: kaffee@soton.ac.uk</p>
+<p dir="rtl">هادي السحار**: hady.elsahar@univ-st-etienne.fr</p>
+<p dir="rtl">بافلوس فويوكليس* :pv1e13@ecs.soton.ac.uk</p>
 
-<span dir="rtl">*  جامعة ساوثهامبتون</span>
-<span dir="rtl">** جامعة ليون</span>
+<p dir="rtl">*  جامعة ساوثهامبتون</p>
+<p dir="rtl">** جامعة ليون</p>
 </div>
