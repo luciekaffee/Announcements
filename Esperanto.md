@@ -22,9 +22,9 @@ If you have any comments and questions, please feel free to reach out to us!
 
 Lucie-Aimée Kaffee* kaffee@soton.ac.uk
 
-Hady Elsahar**
+Hady Elsahar** hady.elsahar@univ-st-etienne.fr
 
-Pavlos Vougiouklis*
+Pavlos Vougiouklis* pv1e13@ecs.soton.ac.uk
 
 <p>* University of Southampton</p>
 ** Université de Lyon  
