@@ -15,8 +15,8 @@ Thank you very much for your participation. It will help to bring the support fo
 
 If you have any comments and questions, please feel free to reach out to us!
 
-Lucie-Aimée Kaffee* kaffee@soton.ac.uk (User:Frimelle)
-Hady Elsahar**
-Pavlos Vougiouklis*
-* University of Southampton
-** Université de Lyon  
+<p>Lucie-Aimée Kaffee* kaffee@soton.ac.uk (User:Frimelle)</p>
+<p>Hady Elsahar**</p>
+<p>Pavlos Vougiouklis*</p>
+<p>* University of Southampton</p>
+<p>** Université de Lyon</p>
