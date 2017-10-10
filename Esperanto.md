@@ -26,5 +26,5 @@ Hady Elsahar**
 
 Pavlos Vougiouklis*
 
-* University of Southampton
+<p>* University of Southampton</p>
 ** Université de Lyon  
