@@ -3,6 +3,7 @@
 **Study Title:** Generating Text for Wikipedia’s ArticlePlaceholder
 
 **Researcher:** Lucie-Aimée Kaffee, Hady Elsahar, Pavlos Vougiouklis
+
 **Supervisor:** Prof Dr Elena Simperl, Jonathon Hare, 
 
 **ERGO number:** 30452
