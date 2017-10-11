@@ -9,7 +9,7 @@ Therefore, we set up a questionnaire here https://www.isurvey.soton.ac.uk/25256.
 It will show information and we want to ask you to edit based on the fact and text shown - without using any external tools. It will help us understand how facts are put in words and how to interact with existing text.
 
 The survey has 30 questions, but if you just want to answer part of the questions, that’s absolutely fine. If you use the save option, you can also come back anytime and edit it.
-The survey is open until 22/10/2017.
+The survey is open until 25/10/2017.
 
 Thank you very much for your participation. It will help to bring the support for Esperanto online a lot forward! 
 
