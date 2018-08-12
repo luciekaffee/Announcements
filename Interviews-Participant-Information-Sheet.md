@@ -1,5 +1,8 @@
 ## Participant Information Sheet
-**Researcher**: Lucie-Aimée Kaffee, Alessandro Piscopo, Pavlos Vougiouklis, Elena Simperl
+**Researcher**: Lucie-Aimée Kaffee, Alessandro Piscopo, Pavlos Vougiouklis
+
+**Supervisor**: Elena Simperl
+
 **ERGO number**: 44971						
 
 Please read this information carefully before deciding to take part in this research.  It is up to you to decide whether or not to take part. If you are happy to participate you will be asked to sign a consent form.
