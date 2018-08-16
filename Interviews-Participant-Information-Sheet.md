@@ -1,5 +1,5 @@
 ## Participant Information Sheet
-**Researcher**: Lucie-Aimée Kaffee, Alessandro Piscopo, Pavlos Vougiouklis
+**Researcher**: Lucie-Aimée Kaffee, Pavlos Vougiouklis
 
 **Supervisor**: Elena Simperl
 
