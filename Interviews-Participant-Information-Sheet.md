@@ -7,6 +7,8 @@
 
 Please read this information carefully before deciding to take part in this research.  It is up to you to decide whether or not to take part. If you are happy to participate you will be asked to sign a consent form.
 
+Sign up for the interviews here: https://docs.google.com/forms/d/e/1FAIpQLSefVV8zpZEfMol5s54iMibiJPY2rTdmHDHbX9dLFXPuuCIsvg/viewform?usp=sf_link
+
 **What is the research about?**
 I am Lucie-Aimée, a researcher in the university of Southampton and I work on this project as part of my PhD research, collaborating with Pavlos Vougiouklis, and Elena Simper at the university of Southampton. This experiment will observe your interaction with text and how you edit Wikipedia. We aim particularly at under-resourced languages to support and improve the editing in these languages. 
 
