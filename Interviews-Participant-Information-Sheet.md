@@ -8,10 +8,10 @@
 Please read this information carefully before deciding to take part in this research.  It is up to you to decide whether or not to take part. If you are happy to participate you will be asked to sign a consent form.
 
 **What is the research about?**
-I am Lucie-Aimée, a researcher in the university of Southampton and I work on this project as part of my PhD research, collaborating with Alessandro Piscopo, Pavlos Vougiouklis, and Elena Simper at the university of Southampton. This experiment will observe your interaction with text and how you edit Wikipedia. 
+I am Lucie-Aimée, a researcher in the university of Southampton and I work on this project as part of my PhD research, collaborating with Alessandro Piscopo, Pavlos Vougiouklis, and Elena Simper at the university of Southampton. This experiment will observe your interaction with text and how you edit Wikipedia. We aim particularly at under-resourced languages to support and improve the editing in these languages. 
 
 **What will happen to me if I take part?**
-We will ask you to read text and edit as if you would edit Wikipedia on our laptop. We will ask you questions and encourage you to speak with us in the whole process. We will record the audio of our conversation as well as the screen where you edit.
+We will ask you to read content page and edit as if you would edit Wikipedia on our laptop. We will ask you questions and encourage you to speak with us in the whole process. We will record the audio of our conversation as well as the screen where you edit. The interview will be happen either in person or via skype. 
 
 **Are there any benefits in my taking part?**
 We will gain a better understanding in how to support Wikipedia editors and can use this knowledge long-term to build better tools for the community.
